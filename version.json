@@ -1,6 +1,0 @@
-{
-  "version": "1.0.1",
-  "download_url_silicon": "https://your-host.com/ALware-Silicon.dmg",
-  "download_url_intel": "https://your-host.com/ALware-Intel.dmg",
-  "changelog": "Fixed crash on Monterey, Big Sur and Catalina."
-}
