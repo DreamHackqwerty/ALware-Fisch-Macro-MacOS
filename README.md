@@ -1,6 +1,6 @@
 # ALware Fisch Macro 
 
-ALware - BEST Fisch Macro on macOS!
+ALware is a free, non-external, color-based Fisch macro for macOS and Windows.
 
 Official Website: https://cmmdt.org/
 
